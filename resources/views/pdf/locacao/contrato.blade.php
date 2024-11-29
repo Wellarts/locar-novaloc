@@ -56,10 +56,10 @@
 <table style="width: 100%">
   <tr>
     <td><img src="{{ asset('img/logo.png') }}" alt="Image" height="60" width="180"></td>
-    <td> <p style="width: 100%; font-size:28px; font-weight: bold;" align="center">VRUMLOC LOCAÇÃO</p>
+    <td> <p style="width: 100%; font-size:28px; font-weight: bold;" align="center">NOVALOC LOCAÇÃO</p>
          <p style="font-size:16px;" align="center">Rua Joaquim Moreira Neves, nº 281 - Recreio dos Bandeirantes <br>
-                                                             Rio de Janeiro - RJ - Contato: (21)97380-2166<br>
-                                                            Email: comercial@vrumloc.com.br - CNPJ: 57.042.447/0001-40</p>
+                                                             Rio de Janeiro - RJ - Contato: (21)99579-2679<br>
+                                                            Email: novaloc.locacao@outlook.com - CPF: 084.645.197-29</p>
     </td>
 </tr>
 
@@ -241,7 +241,7 @@
             <td>
                 <tr>
                     <td><center>_________________________________________</center><br>
-                                <center>LOCADOR: VRUMLOC LOCAÇÃO.</center>
+                                <center>LOCADOR: NOVALOC LOCAÇÃO.</center>
                     <p style = "font-size:10px; text-align: center">Proprietário ou representante legal da Empresa</p>
                     </td>
                 </tr>
@@ -256,7 +256,7 @@
                         <div>
                            <center> _________________________________________</center><br>
                                     <center>LOCATÁRIO: {{$locacao->Cliente->nome}}</center>
-                                    
+
                         </div>
                     </td>
                 </tr>
@@ -295,7 +295,7 @@ ________________________________________________________________________________
 <div>
     <p class="parag">
         Registro: <b>{{$locacao->id}}</b><br><br>
-        Parte, locadora. VRUMLOC Locação Ltda CNPJ 57.042.447-0001-40 Endereço: Rua Joaquim Moreira Neves 281 Recreio dos Bandeirantes - Rio de Janeiro - RJ denominado LOCADOR.<br><br>
+        Parte, locadora. NOVALOC Locação, CPF 084.645.197-29 Endereço: Rua Joaquim Moreira Neves 281 Recreio dos Bandeirantes - Rio de Janeiro - RJ denominado LOCADOR.<br><br>
 
 
         CLÁUSULA 1ª DO OBJETO DO CONTRATO:<br>
@@ -476,7 +476,7 @@ ________________________________________________________________________________
             LOCATÁRIO: {{$locacao->Cliente->nome}}<br><Br><br><br>
 
             ___________________________________________________________<br>
-            LOCADOR: VRUMLOC LOCAÇÃO LTDA.
+            LOCADOR: NOVALOC LOCAÇÃO.
 
         </div>
 
