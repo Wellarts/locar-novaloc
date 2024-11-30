@@ -33,8 +33,8 @@ class Contrato extends Controller
         //FORMATAR TELEFONE
          $tel_1 = $locacao->Cliente->telefone_1;
          $tel_2 = $locacao->Cliente->telefone_2;
-       //  $tel_1 = " (".substr($tel_1, 0, 2).") ".substr($tel_1, 2, 5)."-".substr($tel_1, 7, 11);
-       //  $tel_2 = " (".substr($tel_2, 0, 2).") ".substr($tel_2, 2, 5)."-".substr($tel_2, 7, 11);
+         $locacao->valor_desconto = number_format($locacao->valor_desconto,  2, ",", ".");
+         $locacao->valor_total_desconto = number_format($locacao->valor_total_desconto, 2, ",", ".");
 
 
 
@@ -43,9 +43,8 @@ class Contrato extends Controller
                                                         'dataAtual',
                                                         'cpfCnpj',
                                                         'tel_1',
-                                                        'tel_2']))->stream();
-
-       // return view('pdf.contrato', compact(['locacao']));
+                                                        'tel_2']))
+                                                        ->stream();
 
 
     }
