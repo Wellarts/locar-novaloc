@@ -35,7 +35,7 @@ class Contrato extends Controller
          $tel_2 = $locacao->Cliente->telefone_2;
          $locacao->valor_desconto = number_format($locacao->valor_desconto,  2, ",", ".");
          $locacao->valor_total_desconto = number_format($locacao->valor_total_desconto, 2, ",", ".");
-
+         $locacao->Veiculo->valor_diaria = number_format($locacao->Veiculo->valor_diaria, 2, ",", ".");
 
 
 
