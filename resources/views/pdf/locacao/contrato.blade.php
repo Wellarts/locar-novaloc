@@ -59,7 +59,7 @@
     <td> <p style="width: 100%; font-size:28px; font-weight: bold;" align="center">NOVALOC LOCAÇÃO</p>
          <p style="font-size:16px;" align="center">Rua Joaquim Moreira Neves, nº 281 - Recreio dos Bandeirantes <br>
                                                              Rio de Janeiro - RJ - Contato: (21)99579-2679<br>
-                                                            Email: novaloc.locacao@outlook.com - CPF: 084.645.197-29</p>
+                                                            Email: novaloc.locacao@outlook.com - CNPJ: 58.418.593/0001-90</p>
     </td>
 </tr>
 
@@ -294,7 +294,7 @@
 <div>
     <p class="parag">
         Registro: <b>{{$locacao->id}}</b><br><br>
-        Parte, locadora. NOVALOC Locação, CPF 084.645.197-29 Endereço: Rua Joaquim Moreira Neves 281 Recreio dos Bandeirantes - Rio de Janeiro - RJ denominado LOCADOR.<br><br>
+        Parte, locadora. NOVALOC Locação, CNPJ 58.418.593/0001-90 Endereço: Rua Joaquim Moreira Neves 281 Recreio dos Bandeirantes - Rio de Janeiro - RJ denominado LOCADOR.<br><br>
 
 
         CLÁUSULA 1ª DO OBJETO DO CONTRATO:<br>
