@@ -310,7 +310,7 @@
         2.3.A não apresentação do veículo, no prazo e os supracitados locais, serão cobrados ao LOCATÁRIO multa de R$ 150,00 (cento e cinquenta reais)<br>
         mais R$ 50,00 (cinquenta reais) por dia de atraso, além da possível rescisão contratual.<br>
         CLÁUSULA 3ª – DAS OBRIGAÇÕES DO LOCADOR<br>
-        3.1. As manutenções preventivas, corretivas e troca de pneus, serão divididas da seguinte forma: 50% peloa Locador e 50% pelo Locatário<br>
+        3.1. As manutenções preventivas, corretivas e troca de pneus, serão divididas da seguinte forma: 50% pelo Locador e 50% pelo Locatário<br>
         3.2 também serão arcadas pelo LOCADOR, quando forem necessárias e atestadas pelo mecânico do mesmo.<br>
         3.3. No caso de problemas mecânicos e/ou elétricos (quebra, defeito e/ou desgaste) percebidos em ocasião diversa da manutenção preventiva
         periódica, o LOCATÁRIO deverá informar imediatamente ao LOCADOR, bem como apresentar o veículo a este, no prazo de 24 horas, para reparo a
