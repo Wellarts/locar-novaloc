@@ -327,7 +327,7 @@
         CLÁUSULA 4ª – DAS OBRIGAÇÕES DO LOCATÁRIO<br>
         4.1. É de responsabilidade do LOCATÁRIO, a observância básica dos itens do veículo, como calibragem dos pneus, nível de óleo do motor, nível de
         fluido de freio, observância da marcação, sistema de iluminação e sinalização, entre outros.<br>
-        4.1.1. Quaisquer danos/avarias ao veículo serão apurados no final do contrato e os custos de reparação serão arcados pelo LOCATÁRIO.<br>
+        4.1.1 Quaisquer danos, avarias, acidentes, roubos e furtos deverão ser comunicadas imediatamente. A não comunicação configura quebra de contrato.<br>
         4.1.2. Os custos de revisões reparatórias causadas pelo mau uso dos veículos correrão por conta do LOCATÁRIO. Caso a bomba de combustível
         queime ou danifique por falta de combustível ou negligência, quando o veículo estiver em posse do LOCATÁRIO, este deverá arcar com o valor integral
         da peça, mão de obra, reboque do veículo e demais valores inerentes ao reparo.<br>
@@ -373,13 +373,8 @@
         por terceiros e/ou para assegurar os direitos regressivos do LOCADOR. O LOCATÁRIO será responsável pelo pagamento de lucros cessantes que
         terceiros possam pleitear judicialmente em razão de conduta irregular do LOCATÁRIO.<br>
         CLÁUSULA 5ª – DAS OBRIGAÇÕES DECORRENTES DE COLISÕES E AVARIAS DO VEÍCULO<br>
-        5.1. É de responsabilidade do LOCATÁRIO o pagamento do reboque, taxas e reparos ao veículo objeto do presente contrato ou a veículo de outrem,
-        na ocorrência de acidentes e colisões sofridas na vigência do presente contrato, quando não contempladas pela cobertura da proteção veicular
-        contratada para este veículo, independente de dolo, culpa, negligência, imprudência ou imperícia do LOCATÁRIO.<br>
-        5.2. Na ocorrência da necessidade do pagamento da cota de participação da proteção veicular, a quantia será integralmente de
-        responsabilidade do LOCATÁRIO, no valor de R$ 900,00 (novecentos reais), 24 (vinte e quatro) horas a contar da comunicação ao LOCADOR.
-        No caso em que o LOCATÁRIO resilir o presente contrato, 24 (vinte e quatro) horas a contar do momento em que teve ciência da resilição,
-        quando realizada pelo LOCADOR.<br>
+        5.1. É de responsabilidade do LOCATÁRIO o pagamento do reboque, taxas e reparos ao veículo objeto do presente contrato ou a veículo de outrem, na ocorrência de acidentes e colisões sofridas na vigência do presente contrato, quando não contempladas pela cobertura da proteção veicular contratada para este veículo, independente de dolo, culpa, negligência, imprudência ou imperícia do LOCATÁRIO.<br>
+        5.2. Na ocorrência da necessidade do pagamento da cota de participação da proteção veicular, a quantia será integralmente de responsabilidade do LOCATÁRIO, no valor de 10% da Tabela Fipe da moto.<br>
         5.3. Será de responsabilidade do LOCATÁRIO, o pagamento de taxas e diárias para a liberação do veículo decorrentes ao reboque realizado pelo
         Poder Público, nos casos supracitados.<br>
         5.4.A responsabilidade determinada nos itens supracitados permanece estabelecida, inclusive, caso o LOCATÁRIO não se encontre no interior do
