@@ -55,7 +55,7 @@
 
 <table style="width: 100%">
   <tr>
-    <td><img src="{{ asset('img/logo.png') }}" alt="Image" height="60" width="180"></td>
+    <td><img src="{{ public_path('img/logo.png') }}" alt="Image" height="60" width="180"></td>
     <td> <p style="width: 100%; font-size:28px; font-weight: bold;" align="center">NOVALOC LOCAÇÃO</p>
          <p style="font-size:16px;" align="center">Rua Joaquim Moreira Neves, nº 281 - Recreio dos Bandeirantes <br>
                                                              Rio de Janeiro - RJ - Contato: (21)99579-2679<br>
@@ -284,7 +284,7 @@
 
 <table style="width: 100%">
     <tr>
-        <td><img src="{{ asset('img/logo.png') }}" alt="Image" height="60" width="180"></td>
+        <td><img src="{{ public_path('img/logo.png') }}" alt="Image" height="60" width="180"></td>
       <td> <p style="width: 100%; font-size:20px; font-weight: bold" align="center">Contrato de Locação de Veículos</p>
 
       </td>
