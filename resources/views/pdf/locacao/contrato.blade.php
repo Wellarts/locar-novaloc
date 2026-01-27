@@ -404,8 +404,8 @@
         7.6. Caso o veículo seja devolvido sujo, será cobrada higienização no valor R$ 80,00 (oitenta reais). Na hipótese de lavagem especial será
         cobrada também 1 (um) dia de locação, ou quanto for permitido, até a disponibilização do veículo, limitadas a 10 (dez) diárias.<br>
         7.7. Quando o documento do veículo não for devolvido, será cobrada uma taxa de R$ 150,00 (cento e cinquenta reais).
-        CLÁUSULA 8ª – DA VIGÊNCIA E RESCISÃO<br>
         7.8 - O locatário poderá percorrer até 1.750 km por semana durante o período de locação. Caso haja excedente de quilometragem a locadora cobrará o valor de R$ 0,50 (cinquenta centavos) por quilômetro excedente.<br>
+        CLÁUSULA 8ª – DA VIGÊNCIA E RESCISÃO<br>
         8.1.O presente contrato se inicia na data de sua assinatura com prazo mencionado no início do contrato. A motocicleta
         mencionada deverá ser devolvida no final do contrato até às 12h00 (doze horas) ao LOCATÁRIO, caso não seja devolvida no dia previsto, o contrato
         poderá ser renovado automaticamente.<br>
