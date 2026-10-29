@@ -311,18 +311,17 @@
         mais R$ 50,00 (cinquenta reais) por dia de atraso, além da possível rescisão contratual.<br>
         CLÁUSULA 3ª – DAS OBRIGAÇÕES DO LOCADOR<br>
         3.1. As manutenções preventivas, corretivas e troca de pneus, serão divididas da seguinte forma: 50% pelo Locador e 50% pelo Locatário<br>
-        3.2 Também serão arcadas pelo LOCADOR, quando forem necessárias e atestadas pelo mecânico do mesmo.<br>
-        3.3. No caso de problemas mecânicos e/ou elétricos (quebra, defeito e/ou desgaste) percebidos em ocasião diversa da manutenção preventiva
+        3.2. No caso de problemas mecânicos e/ou elétricos (quebra, defeito e/ou desgaste) percebidos em ocasião diversa da manutenção preventiva
         periódica, o LOCATÁRIO deverá informar imediatamente ao LOCADOR, bem como apresentar o veículo a este, no prazo de 24 horas, para reparo a
         ser realizado em oficina mecânica designada pelo LOCADOR.<br>
-        3.4. O LOCADOR manterá proteção veicular no veículo, caso o LOCATÁRIO contrate os planos de seguro descrito no início deste contrato, caso não
+        3.3. O LOCADOR manterá proteção veicular no veículo, caso o LOCATÁRIO contrate os planos de seguro descrito no início deste contrato, caso não
         haja interesse de adquirir proteção veicular por parte do LOCATÁRIO, o veículo seguirá por total responsabilidade civil e criminal do LOCATÁRIO,
         ficando responsável por quaisquer danos causados ao veículo alugado ou a terceiros.<br>
-        3.4.1 Caso o LOCATÁRIO opte por contratar alguma proteção veicular (seguro para pane, seguro para terceiros, seguro para o veículo alugado e
+        3.3.1 Caso o LOCATÁRIO opte por contratar alguma proteção veicular (seguro para pane, seguro para terceiros, seguro para o veículo alugado e
         seguro com moto reserva), fica a observação em que o seguro veicular só será válido dentro do perímetro de até 230 km (duzentos e trinta quilómetros)
         de distância da base da locadora, sendo que, a proteção veicular para terceiros fixada no valor máximo a ser coberto em até R$ 10.000,00 (dez
         mil reais), caso os danos a terceiros ultrapassar trinta mil reais, o valor excedente deve ser cobrado do LOCATÁRIO.
-        3.5. O LOCADOR não é obrigado a disponibilizar veículo reserva (caso o mesmo não seja contratado previamente) e não se responsabiliza caso o
+        3.4. O LOCADOR não é obrigado a disponibilizar veículo reserva (caso o mesmo não seja contratado previamente) e não se responsabiliza caso o
         LOCATÁRIO não possa dirigir devido à indisponibilidade do veículo.<br>
         CLÁUSULA 4ª – DAS OBRIGAÇÕES DO LOCATÁRIO<br>
         4.1. É de responsabilidade do LOCATÁRIO, a observância básica dos itens do veículo, como calibragem dos pneus, nível de óleo do motor, nível de
